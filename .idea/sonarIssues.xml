@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/.angular-cli.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/protractor.conf.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/proxy.conf.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/app.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/app.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/app.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/app.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/home/welcome.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/home/welcome.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/home/welcome.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/home/welcome.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/products/product-detail.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/products/product.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/products/product.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/tweets/tweets.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/tweets/tweets.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/tweets/tweets.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/app/tweets/tweets/tweets.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/environments/environment.proxy.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SocialAnalyzerClient/src/styles.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/jbhunt/socailmediaanalyzer/Controller/AnalysisController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/jbhunt/socailmediaanalyzer/DAO/DocumentResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/jbhunt/socailmediaanalyzer/DAO/Tweet2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/jbhunt/socailmediaanalyzer/Service/AggregatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/jbhunt/socailmediaanalyzer/Service/CognitiveService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/socailmediaanalyzer/Controller/AnalysisController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/socailmediaanalyzer/DAO/CognitiveResponseDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/socailmediaanalyzer/DAO/Document.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/socailmediaanalyzer/DAO/DocumentResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/socailmediaanalyzer/Service/AggregatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/main/java/com/socailmediaanalyzer/Service/CognitiveService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/test/java/com/jbhunt/socailmediaanalyzer/AggregatorServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/test/java/com/jbhunt/socailmediaanalyzer/TwitterRepoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/test/java/com/socailmediaanalyzer/AggregatorServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/test/java/com/socailmediaanalyzer/SocailmediaanalyzerApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/socailmediaanalyzer/src/test/java/com/socailmediaanalyzer/TwitterRepoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
