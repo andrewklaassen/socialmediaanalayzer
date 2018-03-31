@@ -11,9 +11,6 @@ import org.springframework.web.client.RestTemplate;
 
 @Repository
 public class CognitiveRepo {
-
-
-
     public CognitiveResponseDAO getCognitiveResponse(CognitiveDAO cognitiveDAO) {
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
